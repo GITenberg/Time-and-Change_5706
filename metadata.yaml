@@ -1,0 +1,28 @@
+_repo: Time-and-Change_5706
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology'
+- !lcsh 'Evolution'
+- !lcc 'PS'
+tableOfContents: The long road -- The divine abyss -- The spell of the Yosemite --
+  Through the eyes of the geologist -- Holidays in Hawaii -- The old ice flood --
+  The friendly soil -- Primal energies -- Scientific faith -- "The worm striving to
+  be man." -- The phantoms behind us -- The hazards of the past -- The gospel of nature.
+title: Time and Change
+url: http://www.gutenberg.org/ebooks/5706

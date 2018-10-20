@@ -1,5 +1,5 @@
 _repo: Time-and-Change_5706
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Geology'
 - !lcsh 'Evolution'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The long road -- The divine abyss -- The spell of the Yosemite --
   Through the eyes of the geologist -- Holidays in Hawaii -- The old ice flood --
   The friendly soil -- Primal energies -- Scientific faith -- "The worm striving to
